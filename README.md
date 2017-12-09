@@ -32,8 +32,28 @@ A basic note application that uses a CLI (Command Line Interface) frontend to ca
 ## Related Projects
 
 * [noteworx-cli-fs]
+
+  A basic note application that uses a CLI (Command Line Interface) frontend to capture and manage notes, and a file system to store notes
+
 * [noteworx-cli-mongodb]
+
+  A basic note application that uses a CLI (Command Line Interface) frontend to capture and manage notes, and mongodb to store notes
+
 * [noteworx-cli-mongoose]
+
+  A basic note application that uses a CLI (Command Line Interface) frontend to capture and manage notes, Mongoose ODM to manage MongoDB interaction, and mongodb to store notes
+
+* [noteworx-cli-express-mongodb]
+
+  A basic note application that uses a CLI (Command Line Interface) frontend to capture and manage notes, an express note management API built using Express, and Mongodb to store notes
+
+* [noteworx-expressui-mongodb]
+
+  A basic note application that uses an Express frontend to capture and manage notes, and mongodb to store notes
+
+* [noteworx-react-mongodb]
+
+  A basic note application that uses React frontend to capture and manage notes, an api written in ExpressJS, and mongodb to store notes
 
 ---
 
@@ -240,3 +260,7 @@ I use [SemVer](http://semver.org/) for versioning. For the versions available, s
 [noteworx-cli-fs]: https://github.com/drminnaar/noteworx-cli-fs
 [noteworx-cli-mongodb]: https://github.com/drminnaar/noteworx-cli-mongodb
 [noteworx-cli-mongoose]: https://github.com/drminnaar/noteworx-cli-mongoose
+[noteworx-cli-couchbase]: https://github.com/drminnaar/noteworx-cli-couchbase
+[noteworx-cli-express-mongodb]: https://github.com/drminnaar/noteworx-cli-express-mongodb
+[noteworx-expressui-mongodb]: https://github.com/drminnaar/noteworx-expressui-mongodb
+[noteworx-react-mongodb]: https://github.com/drminnaar/noteworx-react-mongodb
